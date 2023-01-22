@@ -1,1 +1,1 @@
-# Snake-Mania-Game
+# Snake-Mania Game
